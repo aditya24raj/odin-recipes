@@ -1,0 +1,15 @@
+body {
+    margin: 60px auto;
+    max-width: 500px;
+    padding: 7px;
+
+}
+
+img {
+    max-width: 100%;
+}
+
+.photo-credit {
+    color: grey;
+    margin-top: 0px;
+}
