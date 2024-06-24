@@ -2,7 +2,17 @@ body {
     margin: 60px auto;
     max-width: 500px;
     padding: 7px;
+    background-color: #202021;
+    color: white;
+    font-family: monospace;    
+}
 
+h1, h2 {
+    color: #6c6cf5;
+}
+
+a {
+    color: #6c6cf5;
 }
 
 img {
